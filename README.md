@@ -1,7 +1,7 @@
 # Terraform-Scripts
 
-
-#terraform init    - download required libraries
-#terraform plan    - show additions,changes and removed resources
-#terraform apply   - apply terraform plan
-#terraform destroy - terminate resources
+<br>
+#terraform init    - download required libraries<br>
+#terraform plan    - show additions,changes and removed resources<br>
+#terraform apply   - apply terraform plan<br>
+#terraform destroy - terminate resources<br>
